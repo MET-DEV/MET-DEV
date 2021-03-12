@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mustafatpe23@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mustafa-enes-tepe-7463901b8/" target="blank"><img align="center" src="https://www.seekpng.com/png/detail/30-301979_logo-for-website-linkedin-logo-vector-free-download.png" alt="mustafa-enes-tepe-7463901b8/" height="30" width="40" /></a>
 </p>
