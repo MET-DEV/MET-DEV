@@ -11,7 +11,7 @@
 <p align="left">
 
  <a href="https://linkedin.com/in/mustafa-enes-tepe-7463901b8/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mustafatpe23@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a> 
+<a href="mailto:mustafatpe23@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a> 
 </p>
 
 
