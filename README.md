@@ -5,12 +5,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MET-DEV?tab=repositories](https://github.com/MET-DEV?tab=repositories)
 
-- 📫 How to reach me **mustafatpe23@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
  <a href="https://linkedin.com/in/mustafa-enes-tepe-7463901b8/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mustafatpe23@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a> 
 </p>
 
 
