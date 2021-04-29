@@ -8,6 +8,8 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MET-DEV&show_icons=true&theme=radical)
+[![Github](https://img.shields.io/github/followers/MET-DEV?label=Follow&style=social)](https://github.com/MET-DEV)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MET-DEV&layout=compact&theme=radical)](https://github.com/MET-DEV/github-readme-stats)
 
 
