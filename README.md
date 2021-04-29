@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MET-DEV?tab=repositories](https://github.com/MET-DEV?tab=repositories)
 
-[![MET-DEV's github stats](https://github-readme-stats.vercel.app/api?username=MET-DEV)](https://github.com/MET-DEV)
+[![MY Github Stats](https://github-readme-stats.vercel.app/api?username=MET-DEV)](https://github.com/MET-DEV)
 
 
 <h3 align="left">Connect with me:</h3>
