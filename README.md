@@ -6,7 +6,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/MET-DEV?tab=repositories](https://github.com/MET-DEV?tab=repositories)
 
 
-https://github-readme-stats.vercel.app/api?username=MET-DEV_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical
+[radical]: https://github-readme-stats.vercel.app/api?username=MET-DEVicons=true&hide=contribs,prs&cache_seconds=86400&theme=radical
+
 
 
 
