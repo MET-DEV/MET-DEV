@@ -6,14 +6,17 @@
 - 👨‍💻 All of my projects are available at [https://github.com/MET-DEV?tab=repositories](https://github.com/MET-DEV?tab=repositories)
 
 
-
+<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MET-DEV&show_icons=true&theme=radical)
-[![Github](https://img.shields.io/github/followers/MET-DEV?label=Follow&style=social)](https://github.com/MET-DEV)
+</p>
 
+ 
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MET-DEV&layout=compact&theme=radical)](https://github.com/MET-DEV/github-readme-stats)
-
-
-
+</p>
+<p align="center">
+[![Github](https://img.shields.io/github/followers/MET-DEV?label=Follow&style=social)](https://github.com/MET-DEV)
+</p>
 
 
 
