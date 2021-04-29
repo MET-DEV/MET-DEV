@@ -6,7 +6,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/MET-DEV?tab=repositories](https://github.com/MET-DEV?tab=repositories)
 
 
-[radical]: https://github-readme-stats.vercel.app/api?username=MET-DEVicons=true&hide=contribs,prs&cache_seconds=86400&theme=radical
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MET-DEV)](https://github.com/MET-DEV/github-readme-stats)
+
 
 
 
