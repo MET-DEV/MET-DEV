@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MET</h1>
 <h3 align="center">A software developer from Turkey</h3>
 
-- 🌱 I’m currently learning **GO**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MET-DEV?tab=repositories](https://github.com/MET-DEV?tab=repositories)
 
