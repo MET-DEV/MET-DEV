@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning **Node.js, MongoDb, Docker**
 - 👨‍💻 All of my projects are available at [https://github.com/MET-DEV?tab=repositories](https://github.com/MET-DEV?tab=repositories)
 
-<img  height=165 src="https://github-readme-stats.vercel.app/api?username=MET-DEV&show_icons=true&theme=radical"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MET-DEV&layout=compact&theme=radical"></img>
+<a href="https://github-readme-stats.vercel.app/api?username=MET-DEV&show_icons=true&theme=radical"><img  height=165 src="https://github-readme-stats.vercel.app/api?username=MET-DEV&show_icons=true&theme=dark"></img></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MET-DEV&layout=compact&theme=dark"></img>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
