@@ -1,7 +1,7 @@
 <h1 align="center">Mustafa Enes Tepe</h1>
 <h3 align="center">Backend Developer</h3>
 <div align="center">
-- 🌱 I’m currently learning Node.js, MongoDb, Docker
+- 🌱 I’m currently learning Data Science and Tensorflow
   </div>
  <div align="center">
 - 👨‍💻 All of my projects are available at Repositories Page
