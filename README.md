@@ -8,8 +8,8 @@
  </div>
  </br>
 <div align="center">
-<a href="https://github-readme-stats.vercel.app/api?username=MET-DEV&include_all_commits=true&count_private=true&show_icons=true&theme=radical"><img  height=165 src="https://github-readme-stats.vercel.app/api?username=MET-DEV&theme=nightowl&show_icons=true"></img></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MET-DEV&layout=compact&theme=nightowl&langs_count=6"></img>
+<a href="https://github-readme-stats.vercel.app/api?username=MET-DEV&include_all_commits=true&count_private=true&show_icons=true&theme=ocean_dark"><img  height=165 src="https://github-readme-stats.vercel.app/api?username=MET-DEV&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight"></img></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MET-DEV&layout=compact&theme=tokyonight&langs_count=6"></img>
 </div>
 <div align="center">
 <h3 align="center">My Accounts:</h3>
@@ -64,5 +64,16 @@
  
  
  
- 
 </div>
+<div align="center">
+  <h3 align="center">You Can Look This Repos</h3>
+  <a href="https://github-readme-stats.vercel.app/api/pin/?username=MET-DEV&repo=Microservice-Project&cache_seconds=86400&theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MET-DEV&repo=Microservice-Project&cache_seconds=86400&theme=tokyonight"></img></a>
+   <a href="https://github-readme-stats.vercel.app/api/pin/?username=MET-DEV&repo=api-project&cache_seconds=86400&theme=tokyonight"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=MET-DEV&repo=api-project&cache_seconds=86400&theme=tokyonight"></img></a>
+  <a href="https://github-readme-stats.vercel.app/api/pin/?username=MET-DEV&repo=UniversitiesProject-JavaSpringBoot&cache_seconds=86400&theme=tokyonight"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=MET-DEV&repo=UniversitiesProject-JavaSpringBoot&cache_seconds=86400&theme=tokyonight"></img></a>
+  
+
+  
+  
+
+</div>
+
