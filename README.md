@@ -8,7 +8,7 @@
  </div>
  </br>
 <div align="center">
-<a href="https://github-readme-stats.vercel.app/api?username=MET-DEV&show_icons=true&theme=radical"><img  height=165 src="https://github-readme-stats.vercel.app/api?username=MET-DEV&theme=nightowl&show_icons=true"></img></a>
+<a href="https://github-readme-stats.vercel.app/api?username=MET-DEV&include_all_commits=true&count_private=true&show_icons=true&theme=radical"><img  height=165 src="https://github-readme-stats.vercel.app/api?username=MET-DEV&theme=nightowl&show_icons=true"></img></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MET-DEV&layout=compact&theme=nightowl&langs_count=6"></img>
 </div>
 <div align="center">
