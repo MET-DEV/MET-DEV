@@ -65,15 +65,3 @@
  
  
 </div>
-<div align="center">
-  <h3 align="center">You Can Look This Repos</h3>
-  <a href="https://github-readme-stats.vercel.app/api/pin/?username=MET-DEV&repo=Microservice-Project&cache_seconds=86400&theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MET-DEV&repo=Microservice-Project&cache_seconds=86400&theme=tokyonight"></img></a>
-   <a href="https://github-readme-stats.vercel.app/api/pin/?username=MET-DEV&repo=api-project&cache_seconds=86400&theme=tokyonight"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=MET-DEV&repo=api-project&cache_seconds=86400&theme=tokyonight"></img></a>
-  <a href="https://github-readme-stats.vercel.app/api/pin/?username=MET-DEV&repo=UniversitiesProject-JavaSpringBoot&cache_seconds=86400&theme=tokyonight"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=MET-DEV&repo=UniversitiesProject-JavaSpringBoot&cache_seconds=86400&theme=tokyonight"></img></a>
-  
-
-  
-  
-
-</div>
-
