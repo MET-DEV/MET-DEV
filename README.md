@@ -7,11 +7,16 @@
 - 👨‍💻 All of my projects are available at Repositories Page
  </div>
  </br>
+ 
 <div align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=MET-DEV&include_all_commits=true&count_private=true&show_icons=true&theme=ocean_dark"><img  height=165 src="https://github-readme-stats.vercel.app/api?username=MET-DEV&include_all_commits=true&count_private=true&show_icons=true&theme=nightowl"></img></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MET-DEV&layout=compact&theme=nightowl&langs_count=6"></img>
 </div>
+<br/>
 <div align="center">
+<hr/>
+  <p><a href="https://github.com/ryo-ma/github-profile-trophy&theme=radical"><img src="https://github-profile-trophy.vercel.app/?username=MET-DEV&theme=radical&" alt="MET-DEV" /></a></p>
+<hr/>
 <h3 align="center">My Accounts:</h3>
 <p align="center">
 
@@ -25,6 +30,7 @@
 
 </p>
 </div>
+<hr/>
 <div align="center">
 <h3 align="center">Development Environment:</h3>
  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
@@ -33,7 +39,7 @@
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 </div>
 
-
+<hr/>
 
 <div align="center">
 <h3 align="center">Languages and Tools:</h3>
