@@ -1,12 +1,6 @@
 <h1 align="center">Mustafa Enes Tepe</h1>
-<h3 align="center">Backend Developer</h3>
 <div align="center">
-- 🌱 I’m currently learning Data Science and Tensorflow
-  </div>
- <div align="center">
-- 👨‍💻 All of my projects are available at Repositories Page
- </div>
- </br>
+ 
  
 <div align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=MET-DEV&include_all_commits=true&count_private=true&show_icons=true&theme=ocean_dark"><img  height=165 src="https://github-readme-stats.vercel.app/api?username=MET-DEV&include_all_commits=true&count_private=true&show_icons=true&theme=nightowl"></img></a>
@@ -14,10 +8,8 @@
 </div>
 <br/>
 <div align="center">
-<hr/>
-  <p><a href="https://github.com/ryo-ma/github-profile-trophy&theme=radical"><img src="https://github-profile-trophy.vercel.app/?username=MET-DEV&theme=radical&" alt="MET-DEV" /></a></p>
-<hr/>
-<h3 align="center">My Accounts:</h3>
+  <hr/>
+   <h3 align="center">My Accounts:</h3>
 <p align="center">
 
  
@@ -29,6 +21,11 @@
   
 
 </p>
+
+<hr/>
+  <p><a href="https://github.com/ryo-ma/github-profile-trophy&theme=radical"><img src="https://github-profile-trophy.vercel.app/?username=MET-DEV&theme=radical&" alt="MET-DEV" /></a></p>
+
+
 </div>
 <hr/>
 <div align="center">
