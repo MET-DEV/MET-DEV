@@ -2,13 +2,10 @@
 <div align="center">
  
  
+
+
 <div align="center">
-<a href="https://github-readme-stats.vercel.app/api?username=MET-DEV&include_all_commits=true&count_private=true&show_icons=true&theme=ocean_dark"><img  height=165 src="https://github-readme-stats.vercel.app/api?username=MET-DEV&include_all_commits=true&count_private=true&show_icons=true&theme=nightowl"></img></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MET-DEV&layout=compact&theme=nightowl&langs_count=6"></img>
-</div>
-<br/>
-<div align="center">
-  <hr/>
+  
    <h3 align="center">My Accounts:</h3>
 <p align="center">
 
