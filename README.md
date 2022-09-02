@@ -12,21 +12,20 @@
  
  <a href="https://linkedin.com/in/mustafa-enes-tepe-7463901b8/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mustafatpe23@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a> 
-  <a href="https://met-dev.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   <a href="https://gitlab.com/MET-DEV"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
   <a href="https://medium.com/@tepe0789"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
   
 
 </p>
 
-<hr/>
-  <p><a href="https://github.com/ryo-ma/github-profile-trophy&theme=radical"><img src="https://github-profile-trophy.vercel.app/?username=MET-DEV&theme=radical&" alt="MET-DEV" /></a></p>
+
 
 
 </div>
 <hr/>
 <div align="center">
 <h3 align="center">Development Environment:</h3>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
