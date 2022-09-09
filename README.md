@@ -1,9 +1,8 @@
 <h1 align="center">Mustafa Enes Tepe</h1>
 <div align="center">
  
-
-![](https://github-readme-stats.vercel.app/api?username=MET-DEV&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=MET-DEV&theme=dark&hide_border=false)
+ <img width="450" height="180" src="https://github-readme-stats.vercel.app/api?username=MET-DEV&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+ <img width="450" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=MET-DEV&theme=dark&hide_border=false"/>
  <hr/>
 
 
